@@ -25,9 +25,12 @@
 .profiel-foto {
   width: 600px;
 }
+.home-foto {
+  width:  300px
+}
 .hobby-size {
 font-size: 20px;
 }
-.muziek {
-  
+.logo {
+  width: 50px;
 }
