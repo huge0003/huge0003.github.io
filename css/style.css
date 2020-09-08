@@ -34,3 +34,17 @@ font-size: 20px;
 .logo {
   width: 50px;
 }
+
+table, th, td {
+  border: 1px solid black;
+}
+tr {
+  background-color: red;
+}
+
+.square {
+  border: 5px;
+  background-color: orange;
+  position: absolute; top: 700px; left: 20px;
+  font-size: 30px;
+}
