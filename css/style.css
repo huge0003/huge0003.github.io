@@ -21,6 +21,7 @@
   
   body {
     background-color: green;
+    font-family: Arial, Helvetica, sans-serif;
   }
 .profiel-foto {
   width: 600px;
@@ -89,8 +90,4 @@ tr {
     top: 400px;
 
   }
-}
-
-.border {
- 
 }
